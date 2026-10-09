@@ -17,7 +17,7 @@
 					<tbody>
 						<tr>
 							<td style="width:75%; text-align:left;"><h1>Closet</h1></td>
-							<td class="navi"><a href = "README.md">Home</a></td>
+							<td class="navi"><a href = "index.html">Home</a></td>
 							<td class="navi"><a href = "journal.html">Thoughts</a></td>
 							<td class="navi"><a href = "products.html">Works</a></td>
 							<td class="navi"><a href = "contact.html">Contact</a></td>
